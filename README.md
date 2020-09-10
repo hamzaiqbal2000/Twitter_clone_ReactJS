@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DEPLOYED USING FIREBASE - https://twitter-clone-c8640.web.app/
 
 ## Available Scripts
 
